@@ -1,0 +1,1 @@
+bool ispow2(int n) { return n && (!(n & (n - 1))); }
